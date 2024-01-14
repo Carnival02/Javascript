@@ -19,3 +19,4 @@ let isLoggedIn=false //Boolean Datatype => for True/false
 //Object
 
 console.log(typeof age); //Tell you the datatype of the value
+
